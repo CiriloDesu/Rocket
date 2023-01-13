@@ -1,0 +1,10 @@
+# Variáveis
+São:
+* Nomes simbólicos para receber algum valor
+* Atalhos de código
+* Identificadores
+* Existem 3 palavras reservadas para criar uma variável
+    * var
+    * let
+    * const
+    

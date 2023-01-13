@@ -1,0 +1,5 @@
+Object
+    objetopropriedades/atributos
+    funcionalidade/métodos
+
+    { propriedade: "valor" }

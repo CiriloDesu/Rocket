@@ -1,0 +1,4 @@
+33 = inteiro
+12.5 = reais ou flutuante
+NaN = not a Number
+Infinity = infinito
