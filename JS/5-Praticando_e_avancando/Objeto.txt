@@ -1,0 +1,10 @@
+// Object
+
+const person = {
+    name: 'Cirilo',
+    age: 20,
+    weight: 50,
+    isAdmin: true
+}
+    // pegar só uma informação de dentro do objeto
+console.log(person.name)

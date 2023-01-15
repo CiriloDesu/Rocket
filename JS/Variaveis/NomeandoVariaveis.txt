@@ -1,0 +1,20 @@
+## Para criar nomes
+* JS é case-sensitive(sensível ao caso)
+* JS aceita a cadeia de caracteres Unicode
+
+- Posso:
+    * iniciar com esses carecteres especiais: $ _
+    * Iniciar com letras
+    * Coloar acentos
+    * Letras amaísculas e minúsculas fazem diferença
+
+- Não posso:
+    * INiciar com números
+    * Colocar espaços vazios 
+
+- Ideal:
+    * Criar nomes que fazem sentidos
+    * Que explique que a variável é ou faze
+    * camelCase
+    * snake_case
+    * Escrever em inglês
