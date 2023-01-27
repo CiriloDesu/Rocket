@@ -3,9 +3,9 @@
 let techs = ["html", "css", "js"]
 
 // adicionar um item no fim
-console.log(techs.push("php"))
+//console.log(techs.push("php"))
 // adicionar no começo
-techs.unshift("sql")
+//techs.unshift("sql")
 // remover do fim
     //techs.pop()
 // remover do começo
@@ -15,7 +15,7 @@ techs.unshift("sql")
 // remover 1 ou mais items em qualquer posição do array
     //techs.splice(1, 2)
 // encontrar a posição de um elemento no array
-let index = techs.indexOf('css')
+//let index = techs.indexOf('css')
 techs.splice(index, 1)    
 
 console.log(techs)
